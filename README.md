@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ticket booking system](https://github.com/sarvar2003/ticket_booking_system.git)
 
-- 🌱 I’m currently learning **Algorithms and DataStructures and System Design**
+- 🌱 I’m currently learning **Algorithms & DataStructures and System Design**
 
 - 👯 I’m looking to collaborate on **django projects**
 
