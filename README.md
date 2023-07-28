@@ -13,8 +13,7 @@
 
 - 📫 How to reach me: **saravarjuraev@gmail.com**
 
-- 📄 Know about my experiences: https://l1nk.dev/sarvarbek-juraev-c
-
+- 📄 Know about my experiences: <a href="[https://www.w3schools.com](https://drive.google.com/file/d/1y6KENhbDFIFJMTWHaO2H-GqELeLne9jQ/view?usp=sharing)">See my CV</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvar2003&label=Profile%20views&color=0e75b6&style=flat" alt="sarvar2003"  /> </p>
 
