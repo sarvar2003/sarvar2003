@@ -3,7 +3,7 @@
 <img style="border-radius: 50%;" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" height="250">
 
 
-- 🔭 I’m currently working on [Ticket booking system](https://github.com/sarvar2003/ticket_booking_system.git)
+- 🔭 I’m currently working on [Ticket booking system](https://github.com/sarvar2003/eventure)
 
 - 🌱 I’m currently learning **Algorithms & DataStructures and System Design**
 
